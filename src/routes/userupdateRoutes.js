@@ -6,3 +6,6 @@ const { updateMember,rejectMember } = require("../controllers/member-controller/
 router.put('/member-update/update/:id', updateMember);
 
 module.exports = router;
+
+
+//llllllllllllll
