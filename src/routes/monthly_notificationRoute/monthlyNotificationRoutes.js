@@ -21,3 +21,4 @@ router.get('/notifications/:user_id',authMiddleware, getNotifications);
 router.put('/notifications/read/:user_id/:notification_id', markNotificationAsRead);
 
 module.exports = router;
+// MMMMMMMMMMMMMM
